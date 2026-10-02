@@ -1,5 +1,7 @@
 # Credit Risk Exploratory Data Analysis
 
+GitHub repository: `credit-eda`.
+
 A reproducible Python EDA project for the consumer credit risk dataset. The analysis is designed to identify patterns associated with loan default and prepare a defensible feature review for subsequent probability-of-default (PD) modeling. It does not train a model or interpret associations as causal effects.
 
 ## Dataset
